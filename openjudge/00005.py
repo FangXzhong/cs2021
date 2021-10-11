@@ -9,4 +9,3 @@ while flag:
         sum += 1 / (i+2)
         i += 1
     print(str(i)+" card(s)")
-# ok
