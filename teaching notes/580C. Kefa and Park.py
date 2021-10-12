@@ -14,6 +14,6 @@ for i in range(n - 1):
 while nodes:
     selected_node = min(nodes.keys())
     for item in nodes[selected_node]:
-        result[item - 1] += cost[selected_node - 1] + cost[item - 1]
+        result[item - 1] = cost[selected_node - 1] + cost[item - 1]
     del nodes[selected_node] 
 print(result)
