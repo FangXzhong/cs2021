@@ -1,3 +1,4 @@
+
 flag = 1
 while flag:
     num = float(input().strip())
