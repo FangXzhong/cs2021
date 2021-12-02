@@ -1,0 +1,55 @@
+
+#include<stdio.h>
+int d[] = {2,-2,2,-2};
+int direction[] = {1,-1,-1,1};
+int a[11][11];
+int n,m,x,y;
+int kk = 1,ans = 0,sum;
+void dfs(int x,int y)
+{
+	int ax,ay;
+	int i;
+	if(kk == sum)
+	{
+		ans++;a[x][y] = 0;kk--;return;
+	}
+	for(i = 0;i < 4;i++)
+	{
+		ax=x+d[i];
+		ay=y+direction[i];
+		if(ax >= 0 && ax < n && ay < m && ay>= 0 && a[ax][ay] == 0)
+		{
+			kk++;a[ax][ay] = 1;
+            dfs(ax,ay);
+		}
+	}
+	for(i = 0;i < 4;i++)
+	{
+		ax = x + direction[i];
+		ay = y + d[i];
+		if(ax >= 0 && ax < n && ay < m && ay >=0 && a[ax][ay] == 0)
+		{
+			kk++;a[ax][ay] = 1;dfs(ax,ay);
+		}
+	}
+	a[x][y] = 0;kk--;
+}
+int main()
+{
+	int t;
+	scanf("%d",&t);
+	while(t--)
+	{
+		kk = 1;ans = 0;
+		scanf("%d%d%d%d", &n, &m, &x, &y);
+		sum = n*m;
+		for(int i = 0;i < n;i++)
+		for(int j = 0;j < m;j++)
+		{
+			a[i][j] = 0;
+		}
+		a[x][y] = 1;
+		dfs(x,y);
+         printf("%d\n", ans);
+	}
+}
