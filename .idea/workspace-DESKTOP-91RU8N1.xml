@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef4eadd3-131a-49f5-b020-6946443e3e94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="fangxz2002@outlook.com" />
+        <option value="fangxz2019@163.com" />
+        <option value="Mechrev" />
+        <option value="FangXzhong &lt;fangxz2002@outlook.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1yDCAdkO1Zi65hmpEy2mkgZdFhp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\onedrive文件夹\OneDrive - pku.edu.cn\大学\大三上\计算概论B\code\homework\7" />
+      <recent name="D:\Onedrive\OneDrive - pku.edu.cn\大学\大三上\计算概论B\code\homework\6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\onedrive文件夹\OneDrive - pku.edu.cn\大学\大三上\计算概论B\code\homework\4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.00005">
+    <configuration name="登山" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_20211125刘梓豪的MockExam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_20211125刘梓豪的MockExam/登山.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="00005" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\onedrive文件夹\OneDrive - pku.edu.cn\大学\大三上\计算概论B\code\00005.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02754：八皇后" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/02754：八皇后.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="蚂蚁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211202MockExam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211202MockExam/蚂蚁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="圣诞老人的礼物" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211202MockExam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211202MockExam/圣诞老人的礼物.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="岛屿周长" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211202MockExam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211202MockExam/岛屿周长.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="田忌赛马" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/田忌赛马.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="阿尔法星人翻译官" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20211202MockExam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20211202MockExam/阿尔法星人翻译官.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="上机考试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/上机考试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="采药" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/采药.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="八皇后问题" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/八皇后问题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="池塘数目" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/池塘数目.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="矩阵运算" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/矩阵运算.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最长上升子序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework/DP_B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/DP_B/最长上升子序列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="G:\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.00005" />
+      <item itemvalue="Python.登山" />
+      <item itemvalue="Python.02754：八皇后" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02754：八皇后" />
+        <item itemvalue="Python.登山" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef4eadd3-131a-49f5-b020-6946443e3e94" name="Default Changelist" comment="" />
+      <created>1631776629899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631776629899</updated>
+      <workItem from="1631776637723" duration="3937000" />
+      <workItem from="1631845305534" duration="33000" />
+      <workItem from="1632040930069" duration="3070000" />
+      <workItem from="1632121249469" duration="50000" />
+      <workItem from="1632121373646" duration="130000" />
+      <workItem from="1632121619156" duration="2086000" />
+      <workItem from="1632124641752" duration="4000" />
+      <workItem from="1632381093906" duration="25000" />
+      <workItem from="1632381183630" duration="6094000" />
+      <workItem from="1632570827332" duration="3320000" />
+      <workItem from="1632638752253" duration="3262000" />
+      <workItem from="1632799977121" duration="47000" />
+      <workItem from="1632814812535" duration="4444000" />
+      <workItem from="1632819339289" duration="3618000" />
+      <workItem from="1632823201215" duration="423000" />
+      <workItem from="1632823764473" duration="622000" />
+      <workItem from="1632982082116" duration="1436000" />
+      <workItem from="1632983553740" duration="948000" />
+      <workItem from="1633074762288" duration="1665000" />
+      <workItem from="1633315658598" duration="6013000" />
+      <workItem from="1633330181126" duration="8242000" />
+      <workItem from="1633346380639" duration="4286000" />
+      <workItem from="1633411112488" duration="387000" />
+      <workItem from="1633520177054" duration="47000" />
+      <workItem from="1633520242880" duration="199000" />
+      <workItem from="1633747208873" duration="4518000" />
+      <workItem from="1633763685523" duration="3287000" />
+      <workItem from="1633836903562" duration="667000" />
+      <workItem from="1633847554167" duration="4771000" />
+      <workItem from="1633871691274" duration="6000" />
+      <workItem from="1633920492660" duration="42000" />
+      <workItem from="1633921312281" duration="27000" />
+      <workItem from="1633925543209" duration="127000" />
+      <workItem from="1634024418560" duration="67000" />
+      <workItem from="1634027670743" duration="3235000" />
+      <workItem from="1634195252873" duration="6769000" />
+      <workItem from="1634205213804" duration="1128000" />
+      <workItem from="1634213544539" duration="1200000" />
+      <workItem from="1634352421249" duration="3208000" />
+      <workItem from="1634632590609" duration="5255000" />
+      <workItem from="1634818477473" duration="56000" />
+      <workItem from="1635158269594" duration="397000" />
+      <workItem from="1635158679623" duration="602000" />
+      <workItem from="1635159454844" duration="166000" />
+      <workItem from="1635177722676" duration="936000" />
+      <workItem from="1635246444057" duration="117000" />
+      <workItem from="1635246574135" duration="599000" />
+      <workItem from="1635252844251" duration="876000" />
+      <workItem from="1635253742329" duration="49000" />
+      <workItem from="1635254079928" duration="39000" />
+      <workItem from="1635254131532" duration="246000" />
+      <workItem from="1635254952246" duration="46000" />
+      <workItem from="1635259648172" duration="295000" />
+      <workItem from="1635260709015" duration="2922000" />
+      <workItem from="1635264307746" duration="48000" />
+      <workItem from="1635305541569" duration="3695000" />
+      <workItem from="1635471543027" duration="6610000" />
+      <workItem from="1635479921997" duration="1559000" />
+      <workItem from="1635592157182" duration="1933000" />
+      <workItem from="1635837508006" duration="6861000" />
+      <workItem from="1636009652055" duration="4754000" />
+      <workItem from="1636014902341" duration="137000" />
+      <workItem from="1636015048872" duration="49000" />
+      <workItem from="1636026140002" duration="76000" />
+      <workItem from="1636169754926" duration="4418000" />
+      <workItem from="1636374583290" duration="244000" />
+      <workItem from="1636374838908" duration="667000" />
+      <workItem from="1636375521406" duration="1197000" />
+      <workItem from="1636444018330" duration="8834000" />
+      <workItem from="1636621100408" duration="5654000" />
+      <workItem from="1636638627949" duration="2078000" />
+      <workItem from="1637047495086" duration="2169000" />
+      <workItem from="1637049836040" duration="1088000" />
+      <workItem from="1637051081712" duration="7017000" />
+      <workItem from="1637216290745" duration="7543000" />
+      <workItem from="1637304176349" duration="750000" />
+      <workItem from="1637319123804" duration="66000" />
+      <workItem from="1637319834769" duration="2288000" />
+      <workItem from="1637325569728" duration="93000" />
+      <workItem from="1637409863716" duration="965000" />
+      <workItem from="1637411384127" duration="114000" />
+      <workItem from="1637464702218" duration="140000" />
+      <workItem from="1637652942807" duration="7203000" />
+      <workItem from="1637664508819" duration="401000" />
+      <workItem from="1637665192161" duration="1707000" />
+      <workItem from="1637667189451" duration="345000" />
+      <workItem from="1637670988538" duration="89000" />
+      <workItem from="1637671962994" duration="389000" />
+      <workItem from="1637734967532" duration="1702000" />
+      <workItem from="1637738792095" duration="5743000" />
+      <workItem from="1637824151070" duration="2387000" />
+      <workItem from="1637893193065" duration="5738000" />
+      <workItem from="1637909761781" duration="6754000" />
+      <workItem from="1637926710845" duration="4287000" />
+      <workItem from="1637983397029" duration="64000" />
+      <workItem from="1638066698464" duration="11000" />
+      <workItem from="1638428447998" duration="7160000" />
+      <workItem from="1638513108196" duration="4194000" />
+      <workItem from="1638540735690" duration="927000" />
+      <workItem from="1638584954424" duration="9235000" />
+      <workItem from="1638614003136" duration="3612000" />
+      <workItem from="1638622445102" duration="475000" />
+    </task>
+    <task id="LOCAL-00006" summary="2021.9.29">
+      <created>1632982145743</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1632982145743</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2021.9.30">
+      <created>1632984279888</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1632984279888</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2021.9.30">
+      <created>1632984289586</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632984289586</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2021.10.4">
+      <created>1633316510964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633316510964</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2021.10.4">
+      <created>1633318673168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1633318673168</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2021.10.4">
+      <created>1633319081988</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633319081988</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2021.10.4&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633319568127</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633319568127</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2021.10.4&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633319807538</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1633319807538</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2021.10.4&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633321702260</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1633321702260</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2021.10.4&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633330364324</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1633330364324</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2021.10.4&#10;这道题对我来说还是挺有挑战性的&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633334156376</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1633334156376</updated>
+    </task>
+    <task id="LOCAL-00017" summary="挺有意思的一道题，关键是超时的优化&#10;2021.10.4&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633339663353</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1633339663353</updated>
+    </task>
+    <task id="LOCAL-00018" summary="尝试一次未成功&#10;2021.10.9&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633750193610</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1633750193610</updated>
+    </task>
+    <task id="LOCAL-00019" summary="C++yyds&#10;2021.10.9&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633767696592</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1633767696592</updated>
+    </task>
+    <task id="LOCAL-00020" summary="C++yyds&#10;2021.10.9&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633836966705</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1633836966706</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&#10;2021.10.10&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633847601161</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1633847601161</updated>
+    </task>
+    <task id="LOCAL-00022" summary="&#10;2021.10.10&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633920509531</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1633920509531</updated>
+    </task>
+    <task id="LOCAL-00023" summary="&#10;2021.10.10&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633921322414</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1633921322415</updated>
+    </task>
+    <task id="LOCAL-00024" summary="&#10;2021.10.10&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1633925575099</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1633925575099</updated>
+    </task>
+    <task id="LOCAL-00025" summary="完成第四次作业&#10;2021.10.12&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634030905121</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1634030905121</updated>
+    </task>
+    <task id="LOCAL-00026" summary="模拟测试&#10;2021.10.14&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634200186103</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1634200186103</updated>
+    </task>
+    <task id="LOCAL-00027" summary="完成第四次作业&#10;2021.10.14&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634200203317</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1634200203317</updated>
+    </task>
+    <task id="LOCAL-00028" summary="这道题的样例我还是有点没理解，，，，再看看&#10;2021.10.14&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634214682089</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1634214682089</updated>
+    </task>
+    <task id="LOCAL-00029" summary="发现了，题目中只要求连续的不能超过m，我统计的是总数，，寂了，，&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634352725976</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1634352725976</updated>
+    </task>
+    <task id="LOCAL-00030" summary="第二版，祭了&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634355486060</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1634355486060</updated>
+    </task>
+    <task id="LOCAL-00031" summary="第五次作业&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1634637875525</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1634637875525</updated>
+    </task>
+    <task id="LOCAL-00032" summary="new&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;">
+      <created>1635177736519</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635177736519</updated>
+    </task>
+    <task id="LOCAL-00033" summary="236A 先前做过&#10;Signed-off-by: 10513 &lt;fangxz2019@163.com&gt;">
+      <created>1635247010754</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1635247010754</updated>
+    </task>
+    <task id="LOCAL-00034" summary="把之前做过的题目copy过来了&#10;Signed-off-by: 10513 &lt;fangxz2019@163.com&gt;">
+      <created>1635253556128</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1635253556128</updated>
+    </task>
+    <task id="LOCAL-00035" summary="19949 完成">
+      <created>1635263113836</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635263113836</updated>
+    </task>
+    <task id="LOCAL-00036" summary="19949 加了注释">
+      <created>1635263462421</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1635263462421</updated>
+    </task>
+    <task id="LOCAL-00037" summary="搞了半天，原来是题目看错了，真的是吐了，所以看题目的时间一定不能少">
+      <created>1635309435478</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1635309435478</updated>
+    </task>
+    <task id="LOCAL-00038" summary="功能是能实现的，两种方法都行。但是都超时了，得优化">
+      <created>1635477209891</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1635477209891</updated>
+    </task>
+    <task id="LOCAL-00039" summary="第七次作业">
+      <created>1635844836527</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1635844836527</updated>
+    </task>
+    <task id="LOCAL-00040" summary="1104模拟考试，总体感觉还是比较简单的，但是在做最后一题的时候我犯病了，半天才搞出来，在二维列表和字典之间反复横跳，属实离谱。&#10;从这里看出，时刻保持一个清晰的思路是多么重要。">
+      <created>1636015007280</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1636015007280</updated>
+    </task>
+    <task id="LOCAL-00041" summary="欧拉筛法">
+      <created>1636375198812</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1636375198812</updated>
+    </task>
+    <task id="LOCAL-00042" summary="第八次作业">
+      <created>1636468266556</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1636468266556</updated>
+    </task>
+    <task id="LOCAL-00043" summary="第八次作业最后一题">
+      <created>1636627006843</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1636627006843</updated>
+    </task>
+    <task id="LOCAL-00044" summary="第九次作业必做题">
+      <created>1637055958386</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1637055958386</updated>
+    </task>
+    <task id="LOCAL-00045" summary="第九次作业选做题">
+      <created>1637220464889</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1637220464889</updated>
+    </task>
+    <task id="LOCAL-00046" summary="改了189A">
+      <created>1637410821873</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1637410821873</updated>
+    </task>
+    <task id="LOCAL-00047" summary="DPs做了两题，真的是做了个寂寞">
+      <created>1637660864106</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1637660864106</updated>
+    </task>
+    <task id="LOCAL-00048" summary="上课前整了一道题，做出来了">
+      <created>1637736635708</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1637736635708</updated>
+    </task>
+    <task id="LOCAL-00049" summary="金经导上课做的，很好">
+      <created>1637741986381</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1637741986381</updated>
+    </task>
+    <task id="LOCAL-00050" summary="455A完成">
+      <created>1637896640871</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1637896640872</updated>
+    </task>
+    <task id="LOCAL-00051" summary="开始搞模拟考试">
+      <created>1637926770460</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1637926770461</updated>
+    </task>
+    <task id="LOCAL-00052" summary="登山这道题做迷茫了，看了一眼民间解法，发现一句话“求最长上升子序列和最长下降子序列”，突然开窍了。明天再来做">
+      <created>1637930904277</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1637930904277</updated>
+    </task>
+    <task id="LOCAL-00053" summary="20211202模拟考试">
+      <created>1638435659070</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1638435659071</updated>
+    </task>
+    <task id="LOCAL-00054" summary="做完了作业的两道题">
+      <created>1638520450507</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1638520450507</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二版，祭了&#10;&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;" />
+    <MESSAGE value="第五次作业&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;" />
+    <MESSAGE value="new&#10;Signed-off-by: FangXzhong &lt;fangxz2002@outlook.com&gt;" />
+    <MESSAGE value="236A 先前做过&#10;Signed-off-by: 10513 &lt;fangxz2019@163.com&gt;" />
+    <MESSAGE value="把之前做过的题目copy过来了&#10;Signed-off-by: 10513 &lt;fangxz2019@163.com&gt;" />
+    <MESSAGE value="19949 完成" />
+    <MESSAGE value="19949 加了注释" />
+    <MESSAGE value="搞了半天，原来是题目看错了，真的是吐了，所以看题目的时间一定不能少" />
+    <MESSAGE value="功能是能实现的，两种方法都行。但是都超时了，得优化" />
+    <MESSAGE value="第七次作业" />
+    <MESSAGE value="1104模拟考试，总体感觉还是比较简单的，但是在做最后一题的时候我犯病了，半天才搞出来，在二维列表和字典之间反复横跳，属实离谱。&#10;从这里看出，时刻保持一个清晰的思路是多么重要。" />
+    <MESSAGE value="欧拉筛法" />
+    <MESSAGE value="第八次作业" />
+    <MESSAGE value="第八次作业最后一题" />
+    <MESSAGE value="第九次作业必做题" />
+    <MESSAGE value="第九次作业选做题" />
+    <MESSAGE value="改了189A" />
+    <MESSAGE value="DPs做了两题，真的是做了个寂寞" />
+    <MESSAGE value="上课前整了一道题，做出来了" />
+    <MESSAGE value="金经导上课做的，很好" />
+    <MESSAGE value="455A完成" />
+    <MESSAGE value="开始搞模拟考试" />
+    <MESSAGE value="登山这道题做迷茫了，看了一眼民间解法，发现一句话“求最长上升子序列和最长下降子序列”，突然开窍了。明天再来做" />
+    <MESSAGE value="20211202模拟考试" />
+    <MESSAGE value="做完了作业的两道题" />
+    <option name="LAST_COMMIT_MESSAGE" value="做完了作业的两道题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/0276：约瑟夫问题.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/9/313B. Ilya and Queries.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/DPs/16528：充实的寒假生活.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/DPs/02760：数字三角形.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/DPs/18106：螺旋矩阵.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/上机考试.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/others/上机考试.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/20211202MockExam/岛屿周长.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/DP_B/最长上升子序列.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/DP_B/采药.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework/DP_B/02754：八皇后.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$270A__Fancy_Fencegeometry.coverage" NAME="270A. Fancy Fencegeometry Coverage Results" MODIFIED="1632984195730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/2" />
+    <SUITE FILE_PATH="coverage/code$456A__Laptops.coverage" NAME="456A. Laptops Coverage Results" MODIFIED="1633339552978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$313B__Ilya_and_Queries.coverage" NAME="313B. Ilya and Queries Coverage Results" MODIFIED="1637070577915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/9" />
+    <SUITE FILE_PATH="coverage/code$18211.coverage" NAME="18211：军备竞赛 Coverage Results" MODIFIED="1637736161350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$12560.coverage" NAME="12560：生存游戏 Coverage Results" MODIFIED="1636446980057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/8" />
+    <SUITE FILE_PATH="coverage/code$16532.coverage" NAME="16532：上机考试 Coverage Results" MODIFIED="1637912974801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$00007.coverage" NAME="00007 Coverage Results" MODIFIED="1631778469257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/openjudge" />
+    <SUITE FILE_PATH="coverage/code$0276.coverage" NAME="0276：约瑟夫问题 Coverage Results" MODIFIED="1636174062695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/code$1374B__Multiply_by_2__divide_by_6.coverage" NAME="1374B. Multiply by 2, divide by 6 Coverage Results" MODIFIED="1634030851795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/4" />
+    <SUITE FILE_PATH="coverage/code$D.coverage" NAME="D Coverage Results" MODIFIED="1636011532009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211104mockexam" />
+    <SUITE FILE_PATH="coverage/code$A__1_.coverage" NAME="A (1) Coverage Results" MODIFIED="1632382986876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforces/Beta round 1" />
+    <SUITE FILE_PATH="coverage/code$339A__Helpful_Maths.coverage" NAME="339A. Helpful Maths Coverage Results" MODIFIED="1634632988771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/5" />
+    <SUITE FILE_PATH="coverage/code$02760.coverage" NAME="02760：数字三角形 Coverage Results" MODIFIED="1637667346713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$455A__Boredom.coverage" NAME="455A. Boredom Coverage Results" MODIFIED="1637896575112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$02754.coverage" NAME="02754：八皇后 Coverage Results" MODIFIED="1638602893008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DP_B" />
+    <SUITE FILE_PATH="coverage/code$492B__Vanya_and_Lanterns.coverage" NAME="492B. Vanya and Lanterns Coverage Results" MODIFIED="1633321644759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$19942v0_2.coverage" NAME="19942：二维矩阵上的卷积运算v0.2 Coverage Results" MODIFIED="1637051322534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/9" />
+    <SUITE FILE_PATH="coverage/code$2750.coverage" NAME="2750 Coverage Results" MODIFIED="1632122669885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/1" />
+    <SUITE FILE_PATH="coverage/code$705A__Hulk.coverage" NAME="705A. Hulk Coverage Results" MODIFIED="1633319400308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$96A__Football.coverage" NAME="96A. Football Coverage Results" MODIFIED="1632639621202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$03087__.coverage" NAME="03087. 邮箱验证 Coverage Results" MODIFIED="1632822415892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/2" />
+    <SUITE FILE_PATH="coverage/code$C.coverage" NAME="C Coverage Results" MODIFIED="1636010590413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211104mockexam" />
+    <SUITE FILE_PATH="coverage/code$189A__Cut_Ribbon.coverage" NAME="189A. Cut Ribbon Coverage Results" MODIFIED="1637220401091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/9" />
+    <SUITE FILE_PATH="coverage/code$1221A__2048_Game.coverage" NAME="1221A. 2048 Game Coverage Results" MODIFIED="1632983342554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/2" />
+    <SUITE FILE_PATH="coverage/code$Cv0_3_math_.coverage" NAME="C：这一天星期几v0.3(math) Coverage Results" MODIFIED="1634196573273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211014mockexam" />
+    <SUITE FILE_PATH="coverage/code$00005__1_.coverage" NAME="00005 (1) Coverage Results" MODIFIED="1635158896858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/openjudge" />
+    <SUITE FILE_PATH="coverage/code$1425A__Arena_of_Greed.coverage" NAME="1425A. Arena of Greed Coverage Results" MODIFIED="1633767292555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$B.coverage" NAME="B Coverage Results" MODIFIED="1636010115146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211104mockexam" />
+    <SUITE FILE_PATH="coverage/code$16528.coverage" NAME="16528：充实的寒假生活 Coverage Results" MODIFIED="1637660794258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$122A__Lucky_Division.coverage" NAME="122A. Lucky Division Coverage Results" MODIFIED="1633317903215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$466C__Number_of_Ways.coverage" NAME="466C. Number of Ways Coverage Results" MODIFIED="1636452241690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/8" />
+    <SUITE FILE_PATH="coverage/code$E.coverage" NAME="E Coverage Results" MODIFIED="1636011840199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211104mockexam" />
+    <SUITE FILE_PATH="coverage/code$50A__Domino_piling.coverage" NAME="50A. Domino piling Coverage Results" MODIFIED="1632572325602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$1000B__Light_It_Up.coverage" NAME="1000B. Light It Up Coverage Results" MODIFIED="1635477815686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/6" />
+    <SUITE FILE_PATH="coverage/code$158A__Next_Round.coverage" NAME="158A. Next Round Coverage Results" MODIFIED="1632816596087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/2" />
+    <SUITE FILE_PATH="coverage/code$580C__Kefa_and_Park.coverage" NAME="580C. Kefa and Park Coverage Results" MODIFIED="1634354663616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$18182.coverage" NAME="18182：打怪兽 Coverage Results" MODIFIED="1636448029405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/8" />
+    <SUITE FILE_PATH="coverage/code$2733.coverage" NAME="2733 Coverage Results" MODIFIED="1632122920788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/1" />
+    <SUITE FILE_PATH="coverage/code$03532.coverage" NAME="03532：最大上升子序列和 Coverage Results" MODIFIED="1637658852735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$19949v0_2.coverage" NAME="19949：提取实体v0.2 Coverage Results" MODIFIED="1635262941017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/6" />
+    <SUITE FILE_PATH="coverage/code$263A__Beautiful_Matrix.coverage" NAME="263A. Beautiful Matrix Coverage Results" MODIFIED="1632573494328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$368B__Sereja_and_Suffixes.coverage" NAME="368B. Sereja and Suffixes Coverage Results" MODIFIED="1637053387129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/9" />
+    <SUITE FILE_PATH="coverage/code$euler_method.coverage" NAME="euler_method Coverage Results" MODIFIED="1636374969614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/code$230B__T_primes.coverage" NAME="230B. T-primes Coverage Results" MODIFIED="1634636185867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/5" />
+    <SUITE FILE_PATH="coverage/code$508A__Pasha_and_Pixels.coverage" NAME="508A. Pasha and Pixels Coverage Results" MODIFIED="1633334000834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$.coverage" NAME="田忌赛马 Coverage Results" MODIFIED="1638616873550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DP_B" />
+    <SUITE FILE_PATH="coverage/code$02808__.coverage" NAME="02808. 校门外的树 Coverage Results" MODIFIED="1634029014945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/4" />
+    <SUITE FILE_PATH="coverage/code$18106.coverage" NAME="18106：螺旋矩阵 Coverage Results" MODIFIED="1637741931637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/DPs" />
+    <SUITE FILE_PATH="coverage/code$266A__Stones_on_the_Table.coverage" NAME="266A. Stones on the Table Coverage Results" MODIFIED="1632639266419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$118A__String_Task.coverage" NAME="118A. String Task Coverage Results" MODIFIED="1632386563087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$A.coverage" NAME="A Coverage Results" MODIFIED="1636009958474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211104mockexam" />
+    <SUITE FILE_PATH="coverage/code$25A__IQ_test.coverage" NAME="25A. IQ test Coverage Results" MODIFIED="1634029453338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/4" />
+    <SUITE FILE_PATH="coverage/code$1443C__The_Delivery_Dilemma.coverage" NAME="1443C. The Delivery Dilemma Coverage Results" MODIFIED="1636626736303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/8" />
+    <SUITE FILE_PATH="coverage/code$545C__Woodcutters.coverage" NAME="545C. Woodcutters Coverage Results" MODIFIED="1635844529148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/7" />
+    <SUITE FILE_PATH="coverage/code$1A__Theatre_Square.coverage" NAME="1A. Theatre Square Coverage Results" MODIFIED="1632815297977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/2" />
+    <SUITE FILE_PATH="coverage/code$F.coverage" NAME="F Coverage Results" MODIFIED="1636014391493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211104mockexam" />
+    <SUITE FILE_PATH="coverage/code$A__2_.coverage" NAME="A (2) Coverage Results" MODIFIED="1632383909428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codeforces/Beta round 54" />
+    <SUITE FILE_PATH="coverage/code$706B__Interesting_drink.coverage" NAME="706B. Interesting drink Coverage Results" MODIFIED="1637055664243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/9" />
+    <SUITE FILE_PATH="coverage/code$615A__Bulbs.coverage" NAME="615A. Bulbs Coverage Results" MODIFIED="1632640072524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/teaching notes" />
+    <SUITE FILE_PATH="coverage/code$19943.coverage" NAME="19943：图的拉普拉斯矩阵 Coverage Results" MODIFIED="1637049301783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework/9" />
+    <SUITE FILE_PATH="coverage/code$D_.coverage" NAME="D ：装箱问题 Coverage Results" MODIFIED="1634199476828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/20211014mockexam" />
+  </component>
+</project>
