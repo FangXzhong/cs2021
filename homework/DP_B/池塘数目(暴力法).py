@@ -103,7 +103,18 @@
 #                         result += 1
 #     print(result)
 
-# 过不了，不知道是为什么
+# 过不了，一个例子是
+# 10 6
+# WWW..W
+# WW.W..
+# ....WW
+# WW...W
+# ..W.W.
+# W.W.WW
+# ..WWW.
+# WWW...
+# ...WW.
+# WWW...
 
 def in_field(a, b, n, m):
     return 0 <= a <= n - 1 and 0 <= b <= m - 1
