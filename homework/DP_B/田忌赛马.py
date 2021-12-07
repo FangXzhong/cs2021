@@ -46,5 +46,4 @@ while True:
                 king_quick += 1
                 tian_slow -= 1
                 raced += 1
-
     print(result)
