@@ -18,4 +18,3 @@ for i in range(len(height)):
 down.reverse()
 total = [up[i] + down[i] - 1 for i in range(len(up))]
 print(max(total))
-
